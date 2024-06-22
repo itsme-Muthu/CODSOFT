@@ -12,8 +12,6 @@ The provided Python program is a command-line To-Do List application using the p
 The program continuously displays a menu for these operations until the user chooses to exit.
 <be></br>
 
-![ToDoListFinal py - codsoft python internship - Visual Studio Code 6_22_2024 6_17_14 PM](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/47986ac9-9ede-4b82-b25c-57d2a9edd718)
-
 ---
 
 <h3>Task 2: Simple Calculator</h3>
