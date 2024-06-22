@@ -27,7 +27,9 @@ The provided Python code is a command-line Basic Calculator that performs additi
     - Ask if the user wants to continue.
 
 The program repeats until the user chooses to exit.
-<br>
+
+---
+
 <h3>Task 3: Password Generator</h3>
 
 The provided Python code is a command-line Password Generator that creates a strong password with at least one letter, one number, and one special character, with a minimum length of 8 characters.
@@ -36,7 +38,8 @@ The provided Python code is a command-line Password Generator that creates a str
 2) password(): Prompts for password length (minimum 8), generates, and prints the password.
 The program ensures the password is strong and secure.
 
-<br>
+---
+
 <h3>Task 4: Rock-Paper-Scissors Game</h3>
 
 The Python code is a command-line Rock-Paper-Scissors game where players compete against the computer. It includes:
@@ -49,6 +52,8 @@ The Python code is a command-line Rock-Paper-Scissors game where players compete
 - Final score display and declaration of the overall winner based on the highest score.
 - It provides a simple and interactive game experience with clear outcomes after each round and at the end of the game session.
 
+---
+
 <h3>Task 5: Contact Book</h3>
 
 The program provides basic functionalities for managing a contact book:
@@ -58,4 +63,5 @@ The program provides basic functionalities for managing a contact book:
 - Searching for specific contacts by name or phone number.
 - Deleting contacts.
 - Updating contact information.
+
 It utilizes binary file handling with pickle for data storage and retrieval, ensuring persistence across sessions. The menu-driven interface facilitates user interaction, making it straightforward to perform operations on the contact book data.
