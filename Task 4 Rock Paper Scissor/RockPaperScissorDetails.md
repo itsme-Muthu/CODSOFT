@@ -6,16 +6,15 @@ The provided Python code is a command-line implementation of the Rock-Paper-Scis
 
 <h3> Global Variables </h3>
 
---- 
 
 - <b>PlayerScore:</b> Tracks the player's score.
 - <b>ComputerScore:</b> Tracks the computer's score.
 - <b>choices:</b> Dictionary mapping choices to their string representations.
 - <b>n:</b> Counter for the number of rounds played.
 
-<h3> Functions </h3>
-
 ---
+
+<h3> Functions </h3>
 
 <h3> instruction() </h3>
 
@@ -36,9 +35,9 @@ The provided Python code is a command-line implementation of the Rock-Paper-Scis
 - Prompts the player to continue or end the game.
 - Displays final scores and the overall winner when the player exits.
 
-<h3> Execution </h3>
-
 ---
+
+<h3> Execution </h3>
 
 - The program starts by printing the game rules using instruction().
 - Then it enters the main game loop in game(), where it repeatedly:
