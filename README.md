@@ -47,6 +47,8 @@ The provided Python code is a command-line Password Generator that creates a str
 2) password(): Prompts for password length (minimum 8), generates, and prints the password.
 The program ensures the password is strong and secure.
 
+![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/a1674689-6691-4748-9be6-8ba499569781)
+
 ---
 
 <h3>Task 4: Rock-Paper-Scissors Game</h3>
