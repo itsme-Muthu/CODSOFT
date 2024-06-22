@@ -22,5 +22,6 @@ The provided Python code is a command-line Basic Calculator that performs additi
     - Get user input for operations and numbers.
     - Perform the selected operation.
     - Ask if the user wants to continue.
+
 The program repeats until the user chooses to exit.
 
