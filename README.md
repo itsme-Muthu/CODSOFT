@@ -13,6 +13,10 @@ The program continuously displays a menu for these operations until the user cho
 
 ![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/d8189f41-b421-4a14-9805-aa174fedf73a)
 
+![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/3bfdfebf-657c-40d7-a427-63c24d5a6373)
+
+![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/6e380eff-34f8-4802-9dba-8edc2744b1c2)
+
 ---
 
 <h3>Task 2: Simple Calculator</h3>
