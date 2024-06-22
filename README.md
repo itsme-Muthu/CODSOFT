@@ -79,6 +79,8 @@ The program provides basic functionalities for managing a contact book:
 - Deleting contacts.
 - Updating contact information.
 
+It utilizes binary file handling with pickle for data storage and retrieval, ensuring persistence across sessions. The menu-driven interface facilitates user interaction, making it straightforward to perform operations on the contact book data.
+
 ![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/39106249-d583-46c1-b8bc-50a0caaa75cb)
 
 ![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/9859b7ef-a61f-474b-9c64-64981e881c52)
@@ -86,4 +88,3 @@ The program provides basic functionalities for managing a contact book:
 ![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/def41865-5ed2-4f5d-b915-b77b0d11ac5e)
 
 
-It utilizes binary file handling with pickle for data storage and retrieval, ensuring persistence across sessions. The menu-driven interface facilitates user interaction, making it straightforward to perform operations on the contact book data.
