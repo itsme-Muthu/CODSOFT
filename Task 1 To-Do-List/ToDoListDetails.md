@@ -1,5 +1,4 @@
 <h2> Task 1: To Do List </h2>
----
 
 The provided Python program is a command-line based To-Do List application that uses binary file handling with the pickle module to store and manage tasks. Below is a brief description of its functionality:
 
