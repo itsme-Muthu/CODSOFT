@@ -1,7 +1,7 @@
 # CODSOFT
-<h1>Codsoft internship projects for Python Programming</h1>
+<h2>Codsoft internship projects for Python Programming</h2>
 
-<br>
-Task 1: To-Do List application
+<be>
+<h3>Task 1: To-Do List application</h3>
 
 
