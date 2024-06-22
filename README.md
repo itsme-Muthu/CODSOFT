@@ -15,9 +15,9 @@ The program continuously displays a menu for these operations until the user cho
 
 The provided Python code is a command-line Basic Calculator that performs addition, subtraction, multiplication, division, remainder, and exponentiation. It includes:
 
-1) Functions for each arithmetic operation.
-2) A function to display available operations.
-3) A Calculator() function that loops to:
+1)  Functions for each arithmetic operation.
+2)  A function to display available operations.
+3)  A Calculator() function that loops to:
     - Display the menu.
     - Get user input for operations and numbers.
     - Perform the selected operation.
