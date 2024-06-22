@@ -43,6 +43,8 @@ The provided Python code implements a contact book using file handling with bina
 - Based on user input, executes the corresponding function for managing contacts.
 - Continues until the user chooses to exit the program.
 
+---
+
 <h3>Purpose:</h3>
 The program provides basic functionalities for managing a contact book:
 
