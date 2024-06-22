@@ -33,6 +33,10 @@ The provided Python code is a command-line Basic Calculator that performs additi
 
 The program repeats until the user chooses to exit.
 
+![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/57fdb393-6ded-4040-84f6-414aee3f63de)
+
+![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/756d1a9e-6b25-400e-ae58-681fe9cfbfb5)
+
 ---
 
 <h3>Task 3: Password Generator</h3>
