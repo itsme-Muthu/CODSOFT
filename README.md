@@ -13,6 +13,7 @@ The program continuously displays a menu for these operations until the user cho
 
 <br>
 
+
 <h3>Task 2: Simple Calculator</h3>
 
 The provided Python code is a command-line Basic Calculator that performs addition, subtraction, multiplication, division, remainder, and exponentiation. It includes:
