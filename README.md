@@ -9,7 +9,7 @@ The provided Python program is a command-line To-Do List application using the p
 - Delete tasks.
 - Mark tasks as complete.
 
-The program continuously displays a menu for these operations until the user chooses to exit...
+The program continuously displays a menu for these operations until the user chooses to exit.
 <be></br>
 
 <h3>Task 2: Simple Calculator</h3>
@@ -39,7 +39,7 @@ The program ensures the password is strong and secure.
 
 The Python code is a command-line Rock-Paper-Scissors game where players compete against the computer. It includes:
 
-- Rules display at the start.
+- Rules are displayed at the start.
 - Choices (Rock, Paper, Scissors) presented for player input.
 - Random computer choice generation.
 - Determination of round winners based on game rules.
@@ -47,3 +47,13 @@ The Python code is a command-line Rock-Paper-Scissors game where players compete
 - Final score display and declaration of the overall winner based on the highest score.
 - It provides a simple and interactive game experience with clear outcomes after each round and at the end of the game session.
 
+<h3>Task 5: Contact Book</h3>
+
+The program provides basic functionalities for managing a contact book:
+
+- Adding new contacts.
+- Viewing all contacts.
+- Searching for specific contacts by name or phone number.
+- Deleting contacts.
+- Updating contact information.
+It utilizes binary file handling with pickle for data storage and retrieval, ensuring persistence across sessions. The menu-driven interface facilitates user interaction, making it straightforward to perform operations on the contact book data.
