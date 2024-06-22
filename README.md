@@ -8,6 +8,7 @@ The provided Python program is a command-line To-Do List application using the p
 - Update existing tasks.
 - Delete tasks.
 - Mark tasks as complete.
+
 The program continuously displays a menu for these operations until the user chooses to exit.
 
 <h3>Task 2: </h3>
