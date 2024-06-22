@@ -35,3 +35,15 @@ The provided Python code is a command-line Password Generator that creates a str
 The program ensures the password is strong and secure.
 
 <br>
+<h3>Task 4: Rock-Paper-Scissors Game</h3>
+
+The Python code is a command-line Rock-Paper-Scissors game where players compete against the computer. It includes:
+
+- Rules display at the start.
+- Choices (Rock, Paper, Scissors) presented for player input.
+- Random computer choice generation.
+- Determination of round winners based on game rules.
+- Score tracking for both player and computer across multiple rounds.
+- Final score display and declaration of the overall winner based on the highest score.
+- It provides a simple and interactive game experience with clear outcomes after each round and at the end of the game session.
+
