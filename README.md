@@ -63,6 +63,10 @@ The Python code is a command-line Rock-Paper-Scissors game where players compete
 - Final score display and declaration of the overall winner based on the highest score.
 - It provides a simple and interactive game experience with clear outcomes after each round and at the end of the game session.
 
+![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/7dc486b5-67e4-4c86-b43e-9c82464f9ffe)
+
+![image](https://github.com/itsme-Muthu/CODSOFT/assets/116727546/be60181c-1096-41bd-815e-7c64f22f0f7b)
+
 ---
 
 <h3>Task 5: Contact Book</h3>
