@@ -4,7 +4,9 @@ The provided Python program is a command-line based To-Do List application that 
 
 ---
 
-Functions:
+<h3 >Functions: </h3>
+
+---
 
 <h3> insertTask() </h3>
 
@@ -33,12 +35,12 @@ Functions:
 
 <h3>TaskCompleted(taskNumber) </h3>
 
-Marks a specific task identified by its serial number as "Done" in the binary file.
-Prints a confirmation message if the task is marked as complete, otherwise prints an error message.
+- Marks a specific task identified by its serial number as "Done" in the binary file.
+- Prints a confirmation message if the task is marked as complete, otherwise prints an error message.
 
 <h3> main() </h3>
 
-Displays a menu of options for the user to interact with the to-do list.
-Calls the appropriate function based on the user's choice.
-Allows the user to add, view, update, delete tasks, mark tasks as complete, or exit the program.
-The program continuously runs in a loop, displaying the menu and performing the corresponding operations until the user chooses to exit.
+- Displays a menu of options for the user to interact with the to-do list.
+- Calls the appropriate function based on the user's choice.
+- Allows the user to add, view, update, delete tasks, mark tasks as complete, or exit the program.
+- The program continuously runs in a loop, displaying the menu and performing the corresponding operations until the user chooses to exit.
