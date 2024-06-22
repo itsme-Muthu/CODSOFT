@@ -10,8 +10,8 @@ The provided Python program is a command-line To-Do List application using the p
 - Mark tasks as complete.
 
 The program continuously displays a menu for these operations until the user chooses to exit.
+<be></br>
 
-<br>
 <h3>Task 2: Simple Calculator</h3>
 
 The provided Python code is a command-line Basic Calculator that performs addition, subtraction, multiplication, division, remainder, and exponentiation. It includes:
