@@ -12,8 +12,6 @@ The provided Python program is a command-line To-Do List application using the p
 The program continuously displays a menu for these operations until the user chooses to exit.
 
 <br>
-
-
 <h3>Task 2: Simple Calculator</h3>
 
 The provided Python code is a command-line Basic Calculator that performs addition, subtraction, multiplication, division, remainder, and exponentiation. It includes:
@@ -28,7 +26,6 @@ The provided Python code is a command-line Basic Calculator that performs additi
 
 The program repeats until the user chooses to exit.
 <br>
-
 <h3>Task 3: Password Generator</h3>
 
 The provided Python code is a command-line Password Generator that creates a strong password with at least one letter, one number, and one special character, with a minimum length of 8 characters.
